@@ -10,8 +10,8 @@ function App() {
   return (
     <>
       <h1>This is an Ecommerce project</h1>
+      <h2>This is charandeep</h2>
     </>
   );
 }
-
 export default App;
